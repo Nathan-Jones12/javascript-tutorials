@@ -8,7 +8,7 @@
       const myTotal = document.getElementById("total")
        const myThanks = document.getElementById("thanks")
 let myResult = 0  
-
+///Yooooooo
        myOrderButton.onclick = function calculateTotal(){
         myResult = 0;
         if(mySmall.checked)
